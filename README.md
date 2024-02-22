@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nafiu Hasan Madin</h1>
 <h3 align="center">Graphics Designer & Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madin-prime&label=Profile%20views&color=0e75b6&style=flat" alt="madin-prime" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=madin-prime&label=Profile%20views&color=0e75b6&style=flat" alt="madin-prime" /> </p>
 
 <h3 align="center">My Current Status</h3>
 
