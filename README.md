@@ -24,7 +24,7 @@
 - Web Design And Development
 - App Development
 - Graphic Design
-- Video Design
+- Video Editing
 - Ai Prompt Engineering
 - 3d Modeling
 
@@ -130,10 +130,3 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madin-prime/madin-prime/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madin-prime/madin-prime/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/madin-prime/madin-prime/output/pacman-contribution-graph.svg">
-</picture>
-
-###
